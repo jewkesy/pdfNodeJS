@@ -20,6 +20,6 @@
     "express": "^4.12.4",
     "handlebars": "^3.0.3",
     "mongoose": "^4.0.4",
-    "phantomjs": "^1.9.17"
+    "phantom": "^0.7.2"
   }
 }
