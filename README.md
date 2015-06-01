@@ -34,6 +34,5 @@ Check it works
 ```
 $ phantomjs --version
 2.0.0
-$ node
-> 
+$ phantomjs hello.js
 ```
